@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XxTyaftioNxX
 - 👀 I’m interested in JavaScript and Machine Learning maybe 
-- 🌱 I’m currently learning React and a teensie bit of TensorFlow
+- 🌱 I’m currently learning Data Analysis on Python and a teensie bit of TensorFlow
 - 💞️ I’m looking to collaborate on Beginner projects
 - 📫 How to reach me @sthajeevitesh on IG
 
