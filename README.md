@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeevitesh Shrestha aka @XxTyaftioNxX 
-- 👀 I’m interested in Data Analytics and Machine Learning 
-- 🌱 I’m currently working on Data Analysis using Python and 
-- 🌱 Learning NLP
+- 👀 I’m interested in Big Data and Machine Learning 
+- 🌱 I’m currently Learning Data Analysis using Python and 
+- 🌱 NLP
 - 💞️ I’m looking to collaborate on Beginner projects
 - 📫 How to reach me @sthajeevitesh on IG
 
